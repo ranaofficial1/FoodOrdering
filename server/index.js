@@ -24,7 +24,7 @@ app.use('/cartItems', cartRoutes);
 
 
 
- const CONNECTION_URL= 'mongodb+srv://rana:yis58oz7e5TI0D7T@cluster0.cm1oy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+ const CONNECTION_URL= 'mongodb+srv://vivek_kumar:La8VWbv9au2YvEP@cluster0.qwbtc.mongodb.net/Cluster0?retryWrites=true&w=majority';
 
 const PORT = process.env.PORT || 5000;
 console.log("DataBase is Connected Successfully");
